@@ -1,4 +1,4 @@
-package app.template.patches.example
+package app.vincios.patches.example
 
 import app.morphe.patcher.Fingerprint
 import app.morphe.patcher.InstructionLocation.MatchAfterImmediately

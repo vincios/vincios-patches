@@ -2,11 +2,11 @@
 // TODO: Delete this patch and the example patch extension code.
 //
 
-package app.template.patches.example
+package app.vincios.patches.example
 
 import app.morphe.patcher.extensions.InstructionExtensions.addInstructions
 import app.morphe.patcher.patch.patch
-import app.template.patches.shared.Constants.COMPATIBILITY_EXAMPLE
+import app.vincios.patches.shared.Constants.COMPATIBILITY_EXAMPLE
 
 private const val EXTENSION_CLASS = "Lapp/template/extension/ExamplePatch;"
 
